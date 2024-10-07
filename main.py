@@ -7,3 +7,4 @@ def greet():
 greet()
 print('Cherry pick this\!')
 'Comentario añadido'
+'This change is stashed'
